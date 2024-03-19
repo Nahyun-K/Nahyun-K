@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahyun-K)](https://github.com/Nahyun-K/Nahyun-K/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahyun-K&hide=JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahyun-K&exclude_repo=2020_ReliabilityEvaluationUsingSNS)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
