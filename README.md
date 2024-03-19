@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 
 ![Nahyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahyun-K&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahyun-K)](https://github.com/Nahyun-K/Nahyun-K/github-readme-stats)
