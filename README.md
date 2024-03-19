@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=knh990313)](https://solved.ac/{handle})
+
+
+![Nahyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahyun-K&show_icons=true&theme=radical)
