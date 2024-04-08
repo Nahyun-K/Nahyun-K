@@ -35,9 +35,6 @@ Interested In
 ![Nahyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahyun-K&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahyun-K&exclude_repo=2020_ReliabilityEvaluationUsingSNS)](https://github.com/Nahyun-K/github-readme-stats)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahyun-K&exclude_repo=2020_ReliabilityEvaluationUsingSNS&layout=compact)
 
  
