@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### About Me 👋
+- Major in
+
+
+### Skills 👋
+
+In Use
+
+Interested In
+
+Stats
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=knh990313)](https://solved.ac/{handle})
