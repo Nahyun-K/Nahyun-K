@@ -44,6 +44,6 @@ Interested In
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahyun-K&layout=donut-vertical)](https://github.com/Nahyun-K/github-readme-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahyun-K&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahyun-K&exclude_repo=2020_ReliabilityEvaluationUsingSNS&layout=compact)
 
  
