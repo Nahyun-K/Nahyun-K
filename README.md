@@ -16,12 +16,22 @@ Here are some ideas to get you started:
 -->
 
 ### About Me 👋
-- Major in
+- Major in School of Information Convergence
 
 
 ### Skills 👋
 
 In Use
+Java, SQL, Apache Tomcat 9.0, Spring Framework, Spring Boot, MyBatis, Oracle DB, Jquery
+HTML/CSS, JavaScript
+
+
+<img src="https://img.shields.io/badge/github-#181717?style=for-the-badge&logo=github&logoColor=white">
+
+
+
+
+
 
 Interested In
 
